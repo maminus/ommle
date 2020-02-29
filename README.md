@@ -6,7 +6,9 @@ This is a Python library which extracts the middle-layer outputs of an ONNX mode
 ## Installation
 ```
 $ pip install onnx
-$ pip install git+https://github.com/maminus/ommle.git
+$ git clone https://github.com/maminus/ommle.git
+$ cd ommle
+$ pip install -e .
 ```
 
 ## Usage
