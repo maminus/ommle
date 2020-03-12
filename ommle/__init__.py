@@ -1,4 +1,4 @@
-from extractor import add_middle_outputs
+from ommle.extractor import add_middle_outputs
 
 
 __version__ = '1.0.0'
